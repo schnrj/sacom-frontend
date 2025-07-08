@@ -113,30 +113,6 @@ npm run dev
 
 ---
 
-## 🗂 Project Structure (Modular Example)
-
-```txt
-/src
-  /components
-    ChatPanel.jsx
-    DomainSelector.jsx
-    ResponseTypeSelector.jsx
-    LLMSettingsPanel.jsx
-    PluginsModal.jsx
-    ContextPreview.jsx
-  /api
-    chatApi.js
-    domainApi.js
-    llmApi.js
-  /hooks
-    useChat.js
-    useDomain.js
-  /utils
-    constants.js
-    websocket.js
-```
-
----
 
 ## 🧪 Backend Endpoints Reference
 
